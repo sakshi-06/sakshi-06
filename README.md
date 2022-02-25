@@ -53,7 +53,7 @@
 <div algin=centre>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshi-06)](https://git.io/streak-stats)
-<img  src="https://github-readme-stats.vercel.app/api?username=sakshi-06&&show_icons=true&theme=radical"/>
+[![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi-06)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 
