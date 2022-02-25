@@ -50,9 +50,12 @@
 </hr>
 
 <hr>
-
+<div algin=centre>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakshi-06)](https://git.io/streak-stats)
 <img  src="https://github-readme-stats.vercel.app/api?username=sakshi-06&&show_icons=true&theme=radical"/>
+  
+  </div>
 
 </hr>
 <!--
