@@ -43,7 +43,7 @@
 <div align="center">
 <a href="https://twitter.com/saakshiiiee" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56168294/155589013-cbe40877-dfd6-4f23-9371-096d0e31f51d.png" alt="sakshi" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sakshi-kumari-06/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Sakshi" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="sakshi6820@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56168294/155588782-a52d2433-08d7-4a3a-be84-1f4d4fdf06d6.png" alt="Sakshi" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sakshi6820@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56168294/155588782-a52d2433-08d7-4a3a-be84-1f4d4fdf06d6.png" alt="Sakshi" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
    
 </p>
