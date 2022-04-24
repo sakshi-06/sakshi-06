@@ -2,7 +2,7 @@
   
 # Annyeong(Hi)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D2C3E4&vCenter=true&width=551&lines=Welcome+to+the+space!!;Hope+you+are+having+a+good+day+;Let's+take+things+slow+and+enjoy+where+we+are)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D2C3E4&vCenter=true&width=551&lines=Welcome+to+the+space!!;Hope+you+are+having+a+good+day.+;Let's+take+things+slow+and+enjoy+where+we+are.)](https://git.io/typing-svg)
  
 ![Alt Text](https://c.tenor.com/6Gr-6QEvE7EAAAAC/school-live-cute.gif)
 
