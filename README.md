@@ -22,9 +22,8 @@
 <h3> Learning :</h3>
 :hamster: Data Structures & Algorithms
 
-:cat: JavaScript
+:cat: React
 
-:dog: React
 
 
 <hr>
