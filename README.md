@@ -13,7 +13,7 @@
 <h1 align="center">About me:</h1>
 <p align="center">
 <h4>
-    I am a final year computer science undergraduate from India.<br> If I'm not working on my small little projects or doing the daily Leetcode stuff, you will find me crying over my K-dramas, reading fiction and finding random BnBs from opposite part of the world.
+    I am a computer science undergraduate from India. Currently working as a software engineer. <br> If I'm not working on my small little projects or doing the daily Leetcode stuff, you will find me crying over my K-dramas, reading fiction and finding random BnBs from opposite part of the world.
 </div>
    
 </p>
